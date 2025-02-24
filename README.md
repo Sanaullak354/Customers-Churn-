@@ -1,6 +1,6 @@
 # Customers-Churn
 Project
-# README - Exploratory Data Analysis (EDA) & Feature Engineering
+# Exploratory Data Analysis (EDA) & Feature Engineering
 
 ## Overview
 This project focuses on **Exploratory Data Analysis (EDA)** and **Feature Engineering** for a predictive modeling task. The goal is to understand the dataset, identify patterns, and create meaningful features to improve the performance of a machine learning model.
